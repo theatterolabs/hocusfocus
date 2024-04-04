@@ -1,0 +1,50 @@
+{
+    "quizLevel": 0,
+    "quizId": "sea",
+    "img": {
+        "left": "https://s3.ap-south-1.amazonaws.com/mindwars/HocusFocus/seaL.png",
+        "right": "https://s3.ap-south-1.amazonaws.com/mindwars/HocusFocus/seaR.png"
+    },
+    "differenceEntity": [
+        {
+            "id": 1,
+            "pos": "R",
+            "x": 667,
+            "y": 350,
+            "w": 96,
+            "h": 187
+        },
+        {
+            "id": 2,
+            "pos": "R",
+            "x": 800,
+            "y": 28,
+            "w": 41,
+            "h": 66
+        },
+        {
+            "id": 3,
+            "pos": "L",
+            "x": 344,
+            "y": 473,
+            "w": 66,
+            "h": 75
+        },
+        {
+            "id": 4,
+            "pos": "L",
+            "x": 460,
+            "y": 420,
+            "w": 32,
+            "h": 73
+        },
+        {
+            "id": 5,
+            "pos": "R",
+            "x": 908,
+            "y": 246,
+            "w": 39,
+            "h": 43
+        }
+    ]
+}
